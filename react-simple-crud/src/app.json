@@ -1,0 +1,12 @@
+[{
+    "id":1,
+    "title":"comprar comida",
+    "day":"5 febrero",
+    "reminder":true
+},
+{
+    "id":2,
+    "title":"hacer ejercicio",
+    "day":"2 febrero",
+    "reminder":true
+}]
